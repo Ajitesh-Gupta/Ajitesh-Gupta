@@ -1,16 +1,36 @@
-## Hi there 👋
+### Hi there 👋, I'm Ajitesh!
 
-<!--
-**Ajitesh-Gupta/Ajitesh-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about learning, building, and collaborating in the world of technology.  
+Currently diving deep into **Cloud Fundamentals**, **Modern Mobile Development**, and **Core Computer Science**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 **Currently Learning**  
+- ☁️ AWS Cloud Practitioner Essentials  
+- 📱 Android Development with Kotlin + Jetpack Compose  
+- 🧮 Data Structures and Algorithms using Java
+
+🤝 **Open to Collaborate**  
+- Projects in Cloud, Mobile Apps, or DSA-focused problem-solving  
+- People passionate about new tech and fresh ideas
+
+💬 **Ask Me About**  
+- Learning paths in Cloud & Android development  
+- DSA practice, Java tips, and solving algorithmic problems  
+- Anything tech-related — I'm always up for a good convo!
+
+🌱 **On a Mission**  
+- To explore new technologies  
+- To grow with inspiring developers  
+- To turn curiosity into real-world impact
+
+📫 **Let’s Connect**  
+- [LinkedIn](https://www.linkedin.com/in/ajitesh06/)  
+- Email: ajiteshgupta613@gmail.com  
+
+⚡ **Fun Fact**  
+I'm a lifelong learner who believes that every bug teaches a lesson... and sometimes, a sense of humor 😄
+
+---
+
+> “Stay curious. Stay building.”
